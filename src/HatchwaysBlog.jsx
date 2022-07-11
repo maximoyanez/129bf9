@@ -13,6 +13,6 @@ function HatchwaysBlog() {
       </div>
     </div>
   );
-}
+} 
 
 export default HatchwaysBlog;

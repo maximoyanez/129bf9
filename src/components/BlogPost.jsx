@@ -3,7 +3,7 @@ import "../css/blogs.scss";
 import PropTypes from "prop-types";
 import React from "react";
 
-function BlogPost({ author, title, excerpt }) {
+function BlogPost({ author, title, excerpt, id}) {
   return (
     <li className="blogsWrapper">
       <div className="blog">
